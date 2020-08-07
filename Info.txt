@@ -1,0 +1,8 @@
+Download dataset from:
+https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
+
+Requirements:
+Tensorflow
+Keras
+opencv2
+
